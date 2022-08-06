@@ -1,0 +1,15 @@
+.icon {
+  color: red;
+  font-size: 28px;
+}
+.shorts {
+  height: 22px;
+  width: 22px;
+}
+.hline {
+  color: grey;
+}
+.superscript {
+  margin-bottom: 9px;
+  font-weight: normal;
+}
